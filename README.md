@@ -13,9 +13,9 @@
 Всё указанное ниже можно найти здесь
 http://alexgyver.ru/arduino_shop/
 
-* Arduino NANO http://ali.pub/uxbqf
-* Дисплей http://ali.pub/oitu5
-* Датчик http://ali.pub/1kamf3
+* Arduino NANO https://ali.ski/I8SNM
+* Дисплей https://ali.ski/Lh8mU
+* Датчик https://ali.ski/HRGDMx
 
 ## Вам также пригодится 
 * Всё для пайки http://alexgyver.ru/all-for-soldering/
